@@ -7,6 +7,4 @@ I have used NewsAPI.Org to fetch the news and NativeBase.io to build the UI of t
 ![sport](https://user-images.githubusercontent.com/59159432/119714555-a0ee5f80-be80-11eb-8bb9-fb8c703164f2.jpeg)
 ![tech](https://user-images.githubusercontent.com/59159432/119714566-a51a7d00-be80-11eb-9f41-bc7d33e1ccdb.jpeg)
 
-Steps to build-
-npm install
-npm run-android
+
